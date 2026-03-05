@@ -1,0 +1,11 @@
+{
+  "food": {
+    "cozy": ["#ComfortFood", "#CozyVibes"],
+    "playful": ["#Yummy", "#FoodFun"]
+  },
+  "travel": {
+    "peaceful": ["#GoldenHour", "#TravelPhotography"],
+    "aesthetic": ["#Wanderlust", "#Scenic"],
+    "professional": ["#BusinessTrip"]
+  }
+}
